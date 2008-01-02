@@ -13,6 +13,7 @@ Source1: README.space
 Source2: PHOTO_FAQ.ps
 
 URL: http://www.nasa.gov/gallery/photo/
+BuildRoot:%{_tmppath}/%{name}-buildroot
 BuildArchitectures: noarch
 
 %description
