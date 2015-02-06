@@ -1,5 +1,5 @@
 %define  version    1.0.0
-%define  release    %mkrel 14
+%define release    15
 %define name  space
 
 Summary: Desktop backgrounds - Photo and data images from NASA
