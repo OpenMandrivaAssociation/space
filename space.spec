@@ -12,7 +12,7 @@ Source: %{name}-%{version}.tar.bz2
 Source1: README.space
 Source2: PHOTO_FAQ.ps
 
-URL: http://www.nasa.gov/gallery/photo/
+URL: https://www.nasa.gov/gallery/photo/
 BuildRoot:%{_tmppath}/%{name}-buildroot
 BuildArchitectures: noarch
 
